@@ -1,8 +1,9 @@
+
 # python train.py 训练即可。数据下载NWPU数据即可。
 this code is the official code for the paper :Adaptive Context Learning Network for
 Crowd Counting.which accepted by the IEEE SMC 2020.
-
-
+论文地址
+https://ieeexplore.ieee.org/document/9282944
 
 
 Abstract—The task of crowd counting is to estimate the
